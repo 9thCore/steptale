@@ -11,3 +11,5 @@ New versions will go into Releases (right tab).
 Any problems/bugs should be posted in Issues.
 
 so uh yeah download it from there ig
+
+The wiki should help you with getting started.
