@@ -1,5 +1,5 @@
 # steptale
-A repository where I keep StepTale.
+A repository where I keep StepTale's wiki.
 
 StepTale is a sort-of recreation of StepMania. Arrow go on other arrow, you press arrow to hit. It's that simple!
 
